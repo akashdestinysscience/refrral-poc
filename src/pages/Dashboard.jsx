@@ -84,7 +84,7 @@ export default function Dashboard() {
             that here to trigger the referral reward for both you and your referrer.
           </p>
           <button onClick={simulateConsultation}>
-            Simulate: Complete first paid consultation
+            Complete first paid consultation (Get Money)
           </button>
         </div>
       )}
